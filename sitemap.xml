@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/docs/spip/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/article-actualites/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/spip_documentation/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/page-entete/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/images/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/article-importer/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/articles/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/motscles/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/page-accueil/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/page-pied/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/rubrique-actualites/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/rubrique-actions/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/rubrique-quisommesnous/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/rubrique-sinformer/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/site-adaptatif/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/sites/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/selections/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/docs/article-validite/</loc>
+  </url>
+  
+</urlset>
