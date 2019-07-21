@@ -1,0 +1,24 @@
+---
+headless: true
+---
+
+- [**À propos de Spip**]({{< relref "/docs/spip" >}})
+  - [Documentation standard]({{< relref "/docs/spip_documentation" >}})
+- [Site adaptatif]({{< relref "/docs/site-adaptatif" >}})
+- **Description des pages principales**
+  - [Entête de page]({{< relref "/docs/page-entete" >}})
+  - [Pied de page]({{< relref "/docs/page-pied" >}})
+  - [Page d'accueil]({{< relref "/docs/page-accueil" >}})
+  - [S'informer]({{< relref "/docs/rubrique-sinformer" >}})
+  - [Nos actions]({{< relref "/docs/rubrique-actions" >}})
+  - [Actualités]({{< relref "/docs/rubrique-actualites" >}})
+  - [Qui sommes-nous]({{< relref "/docs/rubrique-quisommesnous" >}})
+- **Contenus**
+  - [Articles]({{< relref "/docs/articles" >}})
+  - [Validité des articles]({{< relref "/docs/article-validite" >}})
+  - [Importer des articles]({{< relref "/docs/article-importer" >}})
+  - [Actualités]({{< relref "/docs/article-actualites" >}})
+  - [Sites]({{< relref "/docs/sites" >}})
+  - [Sélections]({{< relref "/docs/selections" >}})
+  - [Mots-clés]({{< relref "/docs/motscles" >}})
+  - [Images]({{< relref "/docs/images" >}})

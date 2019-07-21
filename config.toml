@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "fr-fr"
+title = "ODSE.eu.org - Documentation"
+theme = "book"
+enableRobotsTXT = true
+[params]
+  BookToC = 3
+  BookMenuBundle = '/menu'

@@ -1,0 +1,18 @@
+.capture {
+  margin: 2rem auto;
+
+  > img {
+    border: 1px solid $gray-300;
+  }
+
+  > figcaption {
+    font-style: italic;
+    color: $gray-600;
+  }
+}
+
+@media screen and (min-width: $container-max-width) {
+  .capture {
+    width: 80%;
+  }
+}
