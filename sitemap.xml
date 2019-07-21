@@ -3,95 +3,95 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/docs/spip/</loc>
+    <loc>https://rougerose.github.io/odse-howto/docs/spip/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/docs/article-actualites/</loc>
+    <loc>https://rougerose.github.io/odse-howto/docs/article-actualites/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://rougerose.github.io/odse-howto/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/docs/</loc>
+    <loc>https://rougerose.github.io/odse-howto/docs/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/docs/spip_documentation/</loc>
+    <loc>https://rougerose.github.io/odse-howto/docs/spip_documentation/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/page-entete/</loc>
+    <loc>https://rougerose.github.io/odse-howto/docs/page-entete/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://rougerose.github.io/odse-howto/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/images/</loc>
+    <loc>https://rougerose.github.io/odse-howto/docs/images/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/article-importer/</loc>
+    <loc>https://rougerose.github.io/odse-howto/docs/article-importer/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/articles/</loc>
+    <loc>https://rougerose.github.io/odse-howto/docs/articles/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/motscles/</loc>
+    <loc>https://rougerose.github.io/odse-howto/docs/motscles/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/page-accueil/</loc>
+    <loc>https://rougerose.github.io/odse-howto/docs/page-accueil/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/page-pied/</loc>
+    <loc>https://rougerose.github.io/odse-howto/docs/page-pied/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/rubrique-actualites/</loc>
+    <loc>https://rougerose.github.io/odse-howto/docs/rubrique-actualites/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/rubrique-actions/</loc>
+    <loc>https://rougerose.github.io/odse-howto/docs/rubrique-actions/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/rubrique-quisommesnous/</loc>
+    <loc>https://rougerose.github.io/odse-howto/docs/rubrique-quisommesnous/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/rubrique-sinformer/</loc>
+    <loc>https://rougerose.github.io/odse-howto/docs/rubrique-sinformer/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/site-adaptatif/</loc>
+    <loc>https://rougerose.github.io/odse-howto/docs/site-adaptatif/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/sites/</loc>
+    <loc>https://rougerose.github.io/odse-howto/docs/sites/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/selections/</loc>
+    <loc>https://rougerose.github.io/odse-howto/docs/selections/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://rougerose.github.io/odse-howto/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/docs/article-validite/</loc>
+    <loc>https://rougerose.github.io/odse-howto/docs/article-validite/</loc>
   </url>
   
 </urlset>

@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>How to on ODSE.eu.org - Documentation</title>
-    <link>http://example.org/</link>
+    <link>https://rougerose.github.io/odse-howto/</link>
     <description>Recent content in How to on ODSE.eu.org - Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rougerose.github.io/odse-howto/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://example.org/docs/spip/</link>
+      <link>https://rougerose.github.io/odse-howto/docs/spip/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/spip/</guid>
+      <guid>https://rougerose.github.io/odse-howto/docs/spip/</guid>
       <description>SPIP Tous les contenus du site sont gérés grâce à un outil (logiciel), dénommé SPIP, installé sur le serveur.</description>
     </item>
     
     <item>
       <title>Articles d&#39;actualité</title>
-      <link>http://example.org/docs/article-actualites/</link>
+      <link>https://rougerose.github.io/odse-howto/docs/article-actualites/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/article-actualites/</guid>
+      <guid>https://rougerose.github.io/odse-howto/docs/article-actualites/</guid>
       <description>Article d&amp;rsquo;actualité Comme indiqué dans la page consacrée à la Rubrique Actualités, les articles de cette rubrique doivent être édités de manière différentes des autres articles du site. En effet, la rubrique Actualités a pour objet de répertorier les articles d&amp;rsquo;actualités des associations membres de l&amp;rsquo;ODSE, de les présenter rapidement et ensuite de proposer un lien direct vers le site pourra consulter la source dans son intégralité.
  Capture partielle de la rubrique Actualités</description>
     </item>
     
     <item>
       <title>Documentation standard</title>
-      <link>http://example.org/docs/spip_documentation/</link>
+      <link>https://rougerose.github.io/odse-howto/docs/spip_documentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/spip_documentation/</guid>
+      <guid>https://rougerose.github.io/odse-howto/docs/spip_documentation/</guid>
       <description>Documentation standard de SPIP pour les rédacteurs Une documentation synthétique de 17 pages, au format pdf, est disponible sur cette page.
 Cette documentation permet comprendre le fonctionnement de SPIP et des techniques pour publier de manière autonome les contenus texte et images.
 La documentation disponible sur ce site présente les développements spécifiques au site de l&amp;rsquo;ODSE, et par conséquent, qui ne figurent pas dans la documentation standard.</description>
@@ -42,20 +42,20 @@ La documentation disponible sur ce site présente les développements spécifiqu
     
     <item>
       <title>Entête des pages</title>
-      <link>http://example.org/docs/page-entete/</link>
+      <link>https://rougerose.github.io/odse-howto/docs/page-entete/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/page-entete/</guid>
+      <guid>https://rougerose.github.io/odse-howto/docs/page-entete/</guid>
       <description>Entête des pages Toutes les pages du site possèdent un entête identique composé :
  du logo ODSE. du menu principal qui présente l&amp;rsquo;ensemble des rubriques du site, ainsi que le formulaire de recherche. du nom développé de l&amp;rsquo;ODSE.  À propos du logo ODSE Le logo de l&amp;rsquo;ODSE n&amp;rsquo;est pas accessible depuis l&amp;rsquo;interface privée de SPIP, il est situé au niveau des gabarits de mise en page du site.</description>
     </item>
     
     <item>
       <title>Images, format et traitement</title>
-      <link>http://example.org/docs/images/</link>
+      <link>https://rougerose.github.io/odse-howto/docs/images/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/images/</guid>
+      <guid>https://rougerose.github.io/odse-howto/docs/images/</guid>
       <description>Les images, format et traitement Les images importées sur le site nécessitent un traitement préalable : il est impératif de vérifier la taille, la résolution et le poids d&amp;rsquo;une image avant de l&amp;rsquo;importer sur le site.
 Pour cela, une application du type Photoshop (application payante) ou Affinity Photo (application payante) ou bien encore Gimp (application gratuite) sont les plus adaptées pour cette opération, mais elles nécessitent quelques compétences.
 Il existe des sites qui proposent un service gratuit de traitement d&amp;rsquo;images en ligne tels que Resizeimage.</description>
@@ -63,10 +63,10 @@ Il existe des sites qui proposent un service gratuit de traitement d&amp;rsquo;i
     
     <item>
       <title>Importer des articles</title>
-      <link>http://example.org/docs/article-importer/</link>
+      <link>https://rougerose.github.io/odse-howto/docs/article-importer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/article-importer/</guid>
+      <guid>https://rougerose.github.io/odse-howto/docs/article-importer/</guid>
       <description>Importer des articles Il est possible d&amp;rsquo;importer le texte d&amp;rsquo;un article, ce qui permet d&amp;rsquo;accélérer le processus de mise en ligne et d&amp;rsquo;éviter de saisir toutes les mises en forme (gras, italique, liens, notes de bas de page) d&amp;rsquo;un article.
 Pour cela :
  Il est nécessaire d&amp;rsquo;enregistrer le fichier texte de l&amp;rsquo;article au format .ODT qui est le format natif de l&amp;rsquo;application LibreOffice (équivalent libre et gratuit de Microsoft Office disponible sur https://fr.</description>
@@ -74,20 +74,20 @@ Pour cela :
     
     <item>
       <title>Les articles</title>
-      <link>http://example.org/docs/articles/</link>
+      <link>https://rougerose.github.io/odse-howto/docs/articles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/articles/</guid>
+      <guid>https://rougerose.github.io/odse-howto/docs/articles/</guid>
       <description>Les articles et leur mise en forme Cette page décrit les différentes possibilités de mise en forme des articles sur le site, soit avec l&amp;rsquo;aide des fonctions standards de SPIP (et qui sont également détaillées dans la documentation de l&amp;rsquo;outil).
 Toutes les informations développées ici se basent sur un article fictif publié dans une version de développement du site (voir ci-dessous la capture partielle de cet article). Compte tenu du fait que cette documentation repose sur un outil différent de SPIP et que les règles de mise en page ne sont pas celles utilisées sur le site de l&amp;rsquo;ODSE, chaque code ou raccourcis présenté ici sera accompagné d&amp;rsquo;une capture afin de mettre en évidence d&amp;rsquo;un côté le code et de l&amp;rsquo;autre sa traduction graphique.</description>
     </item>
     
     <item>
       <title>Mots-clés</title>
-      <link>http://example.org/docs/motscles/</link>
+      <link>https://rougerose.github.io/odse-howto/docs/motscles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/motscles/</guid>
+      <guid>https://rougerose.github.io/odse-howto/docs/motscles/</guid>
       <description>Les mots-clés Les mots-clés de SPIP sont un type de contenu qui permet de thématiser chaque article.
 Les mots-clés ont plusieurs avantages :
  ils vont permettre de caractériser par un ou plusieurs mots chaque article. Le visiteur pourra ainsi comprendre plus rapidement le sujet principal d&amp;rsquo;un article.
@@ -96,10 +96,10 @@ Les mots-clés ont plusieurs avantages :
     
     <item>
       <title>Page d&#39;accueil</title>
-      <link>http://example.org/docs/page-accueil/</link>
+      <link>https://rougerose.github.io/odse-howto/docs/page-accueil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/page-accueil/</guid>
+      <guid>https://rougerose.github.io/odse-howto/docs/page-accueil/</guid>
       <description>Page d&amp;rsquo;accueil du site La page d&amp;rsquo;accueil du site est divisée en 3 zones (voir capture d&amp;rsquo;écran ci-dessous) :
  Articles sélectionnés Présentation de l&amp;rsquo;ODSE Derniers articles d&amp;rsquo;actualités   Articles sélectionnés Cette zone repose sur un principe d&amp;rsquo;affichage d&amp;rsquo;articles triés selon une sélection établie par les responsables du site (sélection manuelle), ou, si cette sélection est vide, une sélection automatique d&amp;rsquo;articles établie selon des critères prédéfinis.
 Sélections manuelles Lorsque la sélection éditoriale dédiée à la page d&amp;rsquo;accueil contient au moins un article, elle s&amp;rsquo;affiche de manière prioritaire.</description>
@@ -107,10 +107,10 @@ Sélections manuelles Lorsque la sélection éditoriale dédiée à la page d&am
     
     <item>
       <title>Pied de page</title>
-      <link>http://example.org/docs/page-pied/</link>
+      <link>https://rougerose.github.io/odse-howto/docs/page-pied/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/page-pied/</guid>
+      <guid>https://rougerose.github.io/odse-howto/docs/page-pied/</guid>
       <description>Pied de page En bas de chaque page, un bloc identique est inséré et contient :
  le nom développé de l&amp;rsquo;ODSE. de liens directes vers les pages Contact et Mentions légales.  Nom développé de l&amp;rsquo;ODSE Le nom développé de l&amp;rsquo;ODSE (Observatoire du droit à la santé des étrangers) correspond au Nom du site, champ de saisie disponible dans la page Configuration &amp;gt; Identité du site.
 Pages Contact et Mentions légales Ces pages correspondent des Articles uniques, articles d&amp;rsquo;un format particulier puisqu&amp;rsquo;ils ne dépendent d&amp;rsquo;aucune rubrique du site.</description>
@@ -118,10 +118,10 @@ Pages Contact et Mentions légales Ces pages correspondent des Articles uniques,
     
     <item>
       <title>Rubrique Actualités</title>
-      <link>http://example.org/docs/rubrique-actualites/</link>
+      <link>https://rougerose.github.io/odse-howto/docs/rubrique-actualites/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/rubrique-actualites/</guid>
+      <guid>https://rougerose.github.io/odse-howto/docs/rubrique-actualites/</guid>
       <description>Rubrique Actualités La rubrique Actualités a pour objet de répertorier les articles d&amp;rsquo;actualités des associations membres, de les présenter rapidement et ensuite de proposer un lien direct vers le site pourra consulter la source dans son intégralité.
 Cette rubrique est composée de trois zones principales (voir capture d&amp;rsquo;écran ci-dessous) :
  Le titre est celui saisi dans le champ Titre de la rubrique.
@@ -130,19 +130,19 @@ Cette rubrique est composée de trois zones principales (voir capture d&amp;rsqu
     
     <item>
       <title>Rubrique Nos actions</title>
-      <link>http://example.org/docs/rubrique-actions/</link>
+      <link>https://rougerose.github.io/odse-howto/docs/rubrique-actions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/rubrique-actions/</guid>
+      <guid>https://rougerose.github.io/odse-howto/docs/rubrique-actions/</guid>
       <description>Rubrique Nos actions L&amp;rsquo;organisation de cette rubrique et les principes d&amp;rsquo;affichage de ses contenus sont communs à ceux utilisés pour la rubrique S&amp;rsquo;informer.</description>
     </item>
     
     <item>
       <title>Rubrique Qui sommes-nous ?</title>
-      <link>http://example.org/docs/rubrique-quisommesnous/</link>
+      <link>https://rougerose.github.io/odse-howto/docs/rubrique-quisommesnous/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/rubrique-quisommesnous/</guid>
+      <guid>https://rougerose.github.io/odse-howto/docs/rubrique-quisommesnous/</guid>
       <description>Rubrique Qui sommes-nous ? Contenu de la rubrique Cette rubrique présente le collectif et les associations membres. Elle fait l&amp;rsquo;objet d&amp;rsquo;un traitement particulier dans la mesure où elle affiche d&amp;rsquo;emblée l&amp;rsquo;intégralité du contenu de l&amp;rsquo;unique article auquel elle est liée.
  Capture d&amp;rsquo;écran partielle de la rubrique Qui sommes-nous
   Les principes d&amp;rsquo;affichage des contenus de cette rubrique sont définis ainsi :
@@ -151,10 +151,10 @@ Cette rubrique est composée de trois zones principales (voir capture d&amp;rsqu
     
     <item>
       <title>Rubrique S&#39;informer</title>
-      <link>http://example.org/docs/rubrique-sinformer/</link>
+      <link>https://rougerose.github.io/odse-howto/docs/rubrique-sinformer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/rubrique-sinformer/</guid>
+      <guid>https://rougerose.github.io/odse-howto/docs/rubrique-sinformer/</guid>
       <description>Rubrique S&amp;rsquo;informer Quatre zones principales sont disponibles pour cette rubrique (voir capture d&amp;rsquo;écran ci-dessous) :
  Le titre est celui saisi dans le champ Titre de la rubrique.
  Si l&amp;rsquo;on souhaite faire apparaître un texte (court ou long) de présentation de la rubrique, il faut alors utiliser le champ Texte de la rubrique. Le texte apparaît alors dans un espace compris entre le titre de la rubrique et la zone de tri des articles par mots-clés.</description>
@@ -162,20 +162,20 @@ Cette rubrique est composée de trois zones principales (voir capture d&amp;rsqu
     
     <item>
       <title>Site adaptatif</title>
-      <link>http://example.org/docs/site-adaptatif/</link>
+      <link>https://rougerose.github.io/odse-howto/docs/site-adaptatif/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/site-adaptatif/</guid>
+      <guid>https://rougerose.github.io/odse-howto/docs/site-adaptatif/</guid>
       <description>Un site adaptatif Le site a été développé selon des principes de mise en page adaptative, c&amp;rsquo;est-à-dire que l&amp;rsquo;affichage s&amp;rsquo;adapte à la taille du terminal utilisé par le visiteur : smartphone, tablette, ordinateurs disposant d&amp;rsquo;un écran de grande taille, etc.
 La capture ci-dessous présente une vue simulée de la la page d&amp;rsquo;accueil du site selon deux tailles d&amp;rsquo;affichage : à gauche, avec un navigateur sur un écran grand format ; à droite, avec un smartphone de type iphone 6.</description>
     </item>
     
     <item>
       <title>Sites référencés</title>
-      <link>http://example.org/docs/sites/</link>
+      <link>https://rougerose.github.io/odse-howto/docs/sites/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/sites/</guid>
+      <guid>https://rougerose.github.io/odse-howto/docs/sites/</guid>
       <description>Les sites référencés Ce type de contenu disponible dans l&amp;rsquo;interface de SPIP va être utile pour établir la liste des associations membres de l&amp;rsquo;ODSE, dans la rubrique Qui sommes-nous ?.
 Remarque importante : Seule la rubrique « Qui sommes-nous ? » affiche les sites référencés qui seront publiés à son niveau. Les autres rubriques n&amp;rsquo;afficheront aucun site éventuellement publié à leur niveau.
  Capture d&amp;rsquo;écran de la rubrique Qui sommes-nous depuis l&amp;rsquo;interface privée du site.</description>
@@ -183,10 +183,10 @@ Remarque importante : Seule la rubrique « Qui sommes-nous ? » affiche les site
     
     <item>
       <title>Sélections éditoriales</title>
-      <link>http://example.org/docs/selections/</link>
+      <link>https://rougerose.github.io/odse-howto/docs/selections/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/selections/</guid>
+      <guid>https://rougerose.github.io/odse-howto/docs/selections/</guid>
       <description>Les sélections éditoriales Les sélections éditoriales sont un type de contenu proposé par SPIP (depuis l&amp;rsquo;entrée Édition &amp;gt; Sélections éditoriales de l&amp;rsquo;espace privé) et qui permet de choisir les articles que l&amp;rsquo;on souhaite afficher sur la page d&amp;rsquo;accueil du site (voir la section relative aux sélections manuelles de la page d&amp;rsquo;accueil).
 Ajouter un article Pour ajouter un article à la sélection de la page d&amp;rsquo;accueil :
  Étape préalable si vous souhaitez ajouter un article à la sélection : Afficher l&amp;rsquo;article que vous souhaitez faire apparaître, depuis l&amp;rsquo;espace privé du site.</description>
@@ -194,10 +194,10 @@ Ajouter un article Pour ajouter un article à la sélection de la page d&amp;rsq
     
     <item>
       <title>Validité de l&#39;article</title>
-      <link>http://example.org/docs/article-validite/</link>
+      <link>https://rougerose.github.io/odse-howto/docs/article-validite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/docs/article-validite/</guid>
+      <guid>https://rougerose.github.io/odse-howto/docs/article-validite/</guid>
       <description>Validité de l&amp;rsquo;article et de ses informations Compte tenu du fait que les règles juridiques et administratives sont particulièrement changeantes et que le site de l&amp;rsquo;ODSE possède des informations qui ont été publiées depuis près de 20 ans, il est apparu nécessaire d&amp;rsquo;avertir clairement le visiteur que les informations de certains articles ne sont pas nécessairement valides.
 Pour cela, une règle simple a été établie : lors de l&amp;rsquo;affichage d&amp;rsquo;un article, SPIP compare la date de publication de l&amp;rsquo;article et la date courante.</description>
     </item>
