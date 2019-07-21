@@ -1,8 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "https://rougerose.github.io/odse-howto/"
 languageCode = "fr-fr"
 title = "ODSE.eu.org - Documentation"
 theme = "book"
 enableRobotsTXT = true
+canonifyURLs = true
 [params]
   BookToC = 3
   BookMenuBundle = '/menu'
