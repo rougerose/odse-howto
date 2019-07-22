@@ -47,7 +47,7 @@ La documentation disponible sur ce site présente les développements spécifiqu
       
       <guid>https://rougerose.github.io/odse-howto/docs/page-entete/</guid>
       <description>Entête des pages Toutes les pages du site possèdent un entête identique composé :
- du logo ODSE. du menu principal qui présente l&amp;rsquo;ensemble des rubriques du site, ainsi que le formulaire de recherche. du nom développé de l&amp;rsquo;ODSE.  À propos du logo ODSE Le logo de l&amp;rsquo;ODSE n&amp;rsquo;est pas accessible depuis l&amp;rsquo;interface privée de SPIP, il est situé au niveau des gabarits de mise en page du site.</description>
+ du logo ODSE. du menu principal qui présente l&amp;rsquo;ensemble des rubriques du site, ainsi que le formulaire de recherche. du nom développé de l&amp;rsquo;ODSE.   À propos du logo ODSE Le logo de l&amp;rsquo;ODSE n&amp;rsquo;est pas accessible depuis l&amp;rsquo;interface privée de SPIP, il est situé au niveau des gabarits de mise en page du site.</description>
     </item>
     
     <item>
@@ -112,8 +112,8 @@ Sélections manuelles Lorsque la sélection éditoriale dédiée à la page d&am
       
       <guid>https://rougerose.github.io/odse-howto/docs/page-pied/</guid>
       <description>Pied de page En bas de chaque page, un bloc identique est inséré et contient :
- le nom développé de l&amp;rsquo;ODSE. de liens directes vers les pages Contact et Mentions légales.  Nom développé de l&amp;rsquo;ODSE Le nom développé de l&amp;rsquo;ODSE (Observatoire du droit à la santé des étrangers) correspond au Nom du site, champ de saisie disponible dans la page Configuration &amp;gt; Identité du site.
-Pages Contact et Mentions légales Ces pages correspondent des Articles uniques, articles d&amp;rsquo;un format particulier puisqu&amp;rsquo;ils ne dépendent d&amp;rsquo;aucune rubrique du site.</description>
+ le nom développé de l&amp;rsquo;ODSE. de liens directes vers les pages Contacter l&#39;ODSE et Mentions légales.   Pied de page. Le lien Mentions légales n&amp;rsquo;est pas apparent car la page n&amp;rsquo;est pas publiée au moment de la rédaction de cette documentation.
+  Nom développé de l&amp;rsquo;ODSE Le nom développé de l&amp;rsquo;ODSE (Observatoire du droit à la santé des étrangers) correspond au Nom du site, champ de saisie disponible dans la page Configuration &amp;gt; Identité du site.</description>
     </item>
     
     <item>
